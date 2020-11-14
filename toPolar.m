@@ -1,3 +1,5 @@
+%Author: Micheal Caracciolo
+%@michealcarac on github
 function toPolar(ans) %%Enter as a + bi or a + i*b (you can also use j)
 A = 0;
 Theta = 0;
