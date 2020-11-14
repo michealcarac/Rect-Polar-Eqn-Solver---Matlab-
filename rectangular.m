@@ -1,4 +1,6 @@
 %% Rectangular equation simplifier to final rectangular and polar
+%Author: Micheal Caracciolo
+%@michealcarac on github
 %Note: j can also be used in the equations instead of i
 %Note: if you do i#/j#, you need to do i*#, or just do #i 
 %% Zero out values, do not edit
